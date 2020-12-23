@@ -1,0 +1,58 @@
+{
+  "clients" : {
+    "-M7tCXMshD_1Z9bay33z" : {
+      "addresses" : [ {
+        "complement" : "Ilha de Trindade, Torre 1 - AP306",
+        "country" : "Brasil",
+        "district" : "Colina de Laranjeiras",
+        "federation" : "ES",
+        "number" : "125",
+        "postalCode" : "29167-142",
+        "street" : "Rua Pinho",
+        "type" : "AddressType.residential"
+      } ],
+      "contacts" : [ {
+        "isMain" : true,
+        "type" : "ContactType.phone",
+        "value" : "27 99734-6909"
+      }, {
+        "type" : "ContactType.email",
+        "value" : "rhemerson.reis@gmail.com"
+      } ],
+      "dateBirth" : "1989-03-11",
+      "name" : "Rhemerson Reis"
+    }
+  },
+  "products" : {
+    "-M7oXwY5zXE8VOdATLeR" : {
+      "active" : true,
+      "cost" : 25.3,
+      "createdAt" : "2020-05-20 21:03:24",
+      "description" : "Batata tradicional",
+      "name" : "Batata Inglesa",
+      "quantity" : 200
+    },
+    "-M7oYUgcfzSRbe_xfvNg" : {
+      "active" : false,
+      "cost" : 25.3,
+      "createdAt" : "2020-05-20 21:03:24",
+      "description" : "",
+      "name" : "Tomate Cereja",
+      "quantity" : 200
+    }
+  },
+  "users" : {
+    "-Lx3XceAArx6u-jcjXnT" : {
+      "email" : "guilherme.fraga@gmail.com",
+      "name" : "Guilherme Fraga"
+    },
+    "-M7oWqIC9Vroc0tEjvkX" : {
+      "email" : "guilherme.fraga@gmail.com",
+      "name" : "Guilherme Fraga"
+    },
+    "-M7oWyIRvVe7kKmgJ4xK" : {
+      "email" : "rhemerson.reis@gmail.com",
+      "name" : "Rhemerson Reis"
+    }
+  }
+}

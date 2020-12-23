@@ -1,0 +1,37 @@
+{
+  "createdAt" : "2020-08-12 18:20",
+  "soldAt" : "2020-08-12 15:20",
+  "name": "Rhemerson",
+  "lastname": "Reis",
+  "phone": "27997346909",
+  "total" : 90,
+  "pieces": 3,
+  "products": [
+    {
+      "category": "Vestido",
+      "product" : "nan",
+      "size": "M",
+      "value": 30.00,
+      "quantity": 2,
+      "amount" : 60
+    },
+    {
+      "category": "Blusa",
+      "product": "nan",
+      "size": "M",
+      "value": 30.00,
+      "quantity": 1,
+      "amount": 30
+    }
+  ],
+  "paytments": [
+    {
+      "method": "Dinheiro",
+      "value": 60.00
+    },
+    {
+      "method": "PicPay",
+      "value": 30.00
+    }
+  ]
+}
